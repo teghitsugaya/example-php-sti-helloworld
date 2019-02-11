@@ -53,7 +53,8 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'APPUiO'$_SERVER['REMOTE_ADDR'] ?></h1>
+        <h1>Hallo <?php echo 'APPUiO'?></h1>
+        <h1>Hallo <?php echo gethostname();?></h1>
         <p class="lead">APPUiO Example Source To Image PHP</p>
       </div>
 
