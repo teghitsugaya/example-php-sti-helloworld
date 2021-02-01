@@ -9,8 +9,9 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>APPUiO PHP Demo</title>
-
+    #<title>APPUiO PHP Demo</title>
+    #<title>Datacomm APPUiO PHP Demo</title>
+    
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
