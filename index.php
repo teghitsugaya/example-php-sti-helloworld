@@ -9,9 +9,8 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    #<title>APPUiO PHP Demo</title>
     <title>Datacomm APPUiO PHP Demo</title>
-    
+        
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -39,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">APPUiO PHP Demo</a>
+          <a class="navbar-brand" href="#">Datacomm APPUiO PHP Demo</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -56,7 +55,7 @@
       <div class="starter-template">
         <h1>Hallo <?php echo 'APPUiOV.2.0'?></h1>
         <h1>Hallo <?php echo gethostname();?></h1>
-        <p class="lead">APPUiO Example Source To Image PHP</p>
+        <p class="lead">Datacomm APPUiO Example Source To Image PHP</p>
       </div>
 
     </div><!-- /.container -->
