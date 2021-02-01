@@ -53,7 +53,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo DTC! <?php echo 'APPUiOV.2.0'?></h1>
+        <h1>Hallo DTC!!! <?php echo 'APPUiOV.5.0'?></h1>
         <h1>Hallo <?php echo gethostname();?></h1>
         <p class="lead">Datacomm APPUiO Example Source To Image PHP</p>
       </div>
