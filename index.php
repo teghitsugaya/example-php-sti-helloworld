@@ -53,8 +53,8 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Welocome to Datacomm! <?php echo 'APPUiOV.5.0'?></h1>
-        <h1>Welocome to Datacomm <?php echo gethostname();?></h1>
+        <h1>Welcome to Datacomm! Webminar k8saas <?php echo 'APPUiOV.5.0'?></h1>
+        <h1>Welcome to Datacomm, Cloud Citi<?php echo gethostname();?></h1>
         <p class="lead">Datacomm APPUiO Example Source To Image PHP</p>
       </div>
 
