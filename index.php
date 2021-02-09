@@ -53,8 +53,8 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'APPUiO'?></h1>
-        <p class="lead">APPUiO Example Source To Image PHP</p>
+        <h1>Halloooooooooooooo <?php echo 'APPUiO'?></h1>
+        <p class="lead">APPUiOooooooo Example Source To Image PHP</p>
       </div>
 
     </div><!-- /.container -->
